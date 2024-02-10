@@ -1,1 +1,5 @@
-Master branch első commit. "C branch módosítása"
+
+Master branch első commit. Elősször volt C branch módosítás, majd utána volt B branch commitja.
+
+
+
